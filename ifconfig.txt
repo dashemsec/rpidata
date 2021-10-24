@@ -19,8 +19,8 @@ wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet6 2409:4064:4e94:aa09:ddf5:53ed:d0ce:1d3e  prefixlen 64  scopeid 0x0<global>
         inet6 fe80::390d:e8da:5718:207a  prefixlen 64  scopeid 0x20<link>
         ether b8:27:eb:9f:22:14  txqueuelen 1000  (Ethernet)
-        RX packets 91  bytes 16179 (15.7 KiB)
+        RX packets 622  bytes 61050 (59.6 KiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 71  bytes 11076 (10.8 KiB)
+        TX packets 447  bytes 66208 (64.6 KiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
