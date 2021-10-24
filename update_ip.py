@@ -1,5 +1,5 @@
 import subprocess
-#from pexpect import popen_spawn
+from pexpect import popen_spawn
 import os
 
 
