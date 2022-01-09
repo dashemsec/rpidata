@@ -1,8 +1,10 @@
-eth0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 169.254.60.87  netmask 255.255.0.0  broadcast 169.254.255.255
+        inet6 fe80::76fd:747e:b442:12b1  prefixlen 64  scopeid 0x20<link>
         ether b8:27:eb:ca:77:41  txqueuelen 1000  (Ethernet)
-        RX packets 0  bytes 0 (0.0 B)
+        RX packets 39  bytes 4344 (4.2 KiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 0  bytes 0 (0.0 B)
+        TX packets 27  bytes 4399 (4.2 KiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
@@ -19,9 +21,9 @@ wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet6 2409:4064:4dc1:d484:77ab:83a0:3c65:9379  prefixlen 64  scopeid 0x0<global>
         inet6 fe80::390d:e8da:5718:207a  prefixlen 64  scopeid 0x20<link>
         ether b8:27:eb:9f:22:14  txqueuelen 1000  (Ethernet)
-        RX packets 83  bytes 29045 (28.3 KiB)
+        RX packets 57  bytes 26223 (25.6 KiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 103  bytes 13597 (13.2 KiB)
+        TX packets 87  bytes 11226 (10.9 KiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-Sun  9 Jan 07:48:04 GMT 2022
+Sun  9 Jan 08:11:46 GMT 2022
